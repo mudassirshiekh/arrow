@@ -24,6 +24,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/apachearrow.svg?style=social&label=Follow)](https://twitter.com/apachearrow)
 
 ## Powering In-Memory Analytics
+## By Mudassir Alam
 
 Apache Arrow is a universal columnar format and multi-language toolbox for fast
 data interchange and in-memory analytics. It contains a set of technologies that
